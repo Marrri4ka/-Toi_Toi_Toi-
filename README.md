@@ -1,6 +1,16 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Alt text](/img/op.png)
+![Alt text](/img/2.png)
+![Alt text](/img/3.png)
+![Alt text](/img/4.png)
+![Alt text](/img/5.png)
+![Alt text](/img/6.png)
+![Alt text](/img/7.png)
+
 
 ## Available Scripts
+<details>
+<summary>Click Here for Details</summary>
 
 In the project directory, you can run:
 
@@ -64,5 +74,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/ad
 This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
 
 ### `npm run build` fails to minify
-
+</details>
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
