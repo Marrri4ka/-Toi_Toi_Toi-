@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-![Alt text](/img/op.png)
+![Alt text](/img/1.png)
 ![Alt text](/img/2.png)
 ![Alt text](/img/3.png)
 ![Alt text](/img/4.png)
