@@ -1,11 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-![Alt text](/img/1.png)
-![Alt text](/img/2.png)
-![Alt text](/img/3.png)
-![Alt text](/img/4.png)
-![Alt text](/img/5.png)
-![Alt text](/img/6.png)
-![Alt text](/img/7.png)
+![Alt text](/img/1a.png)
+![Alt text](/img/1c.png)
+![Alt text](/img/2a.png)
+![Alt text](/img/3a.png)
+![Alt text](/img/4a.png)
+![Alt text](/img/4b.png)
+![Alt text](/img/5a.png)
 
 
 ## Available Scripts
